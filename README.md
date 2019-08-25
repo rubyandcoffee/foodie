@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 Use Thor generator to generate a new recipe template:
-- bundle exec exe/foodie recipe dinner steak
+- `bundle exec exe/foodie recipe dinner steak`
 
 ## Development
 
