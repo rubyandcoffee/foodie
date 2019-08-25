@@ -1,6 +1,6 @@
 # Foodie
 
-A gem for food.
+A gem for food recipes. Uses Thor for recipe generator.
 
 ## Installation
 
@@ -20,7 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO:
+Use Thor generator to generate a new recipe template:
+- bundle exec exe/foodie recipe dinner steak
 
 ## Development
 
